@@ -3,6 +3,7 @@
 
 ### demo
 原图
-![原图](https://github.com/cnjack/auto_clip/blob/master/text.jpg?raw=true)
+![原图](https://github.com/cnjack/auto_clip/blob/master/test.jpg?raw=true)
+------
 裁剪图
 ![裁剪图](https://github.com/cnjack/auto_clip/blob/master/dest.jpg?raw=true)
